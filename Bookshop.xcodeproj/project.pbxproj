@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		F01E8DB72C8F14230004BF70 /* Bookshop */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Bookshop; sourceTree = BUILT_PRODUCTS_DIR; };
 		F01E8DBA2C8F14230004BF70 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F01E8DC12C8F152F0004BF70 /* books.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = books.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				F01E8DBA2C8F14230004BF70 /* main.cpp */,
+				F01E8DC12C8F152F0004BF70 /* books.txt */,
 			);
 			path = Bookshop;
 			sourceTree = "<group>";
